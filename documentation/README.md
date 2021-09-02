@@ -1,6 +1,3 @@
-THENAMEC FS-UAE THEMES
-======================
-
     ████████╗██╗  ██╗███████╗███╗   ██╗ █████╗ ███╗   ███╗███████╗ ██████╗
     ╚══██╔══╝██║  ██║██╔════╝████╗  ██║██╔══██╗████╗ ████║██╔════╝██╔════╝
        ██║   ███████║█████╗  ██╔██╗ ██║███████║██╔████╔██║█████╗  ██║
@@ -20,15 +17,20 @@ THENAMEC FS-UAE THEMES
        ██║   ██║  ██║███████╗██║ ╚═╝ ██║███████╗███████║
        ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚══════╝╚══════╝
   
-Original graphic themes for use with **FS-UAE** multiplatform Amiga emulator
-  
+THENAMEC FS-UAE THEMES
+======================
+
+> Original graphic themes for use with **FS-UAE** multiplatform Amiga emulator
+> 
 > Official Links:  
->: [*Devblog & download*](#https://retrogamingpacks.blogspot.com)  
->: [*Libretro Mega Bezel COMMODORE Pack thread*](#https://forums.libretro.com/t/thenamec-mega-bezel-commodore-pack-announcement/)  
->: [*Github Repository*](#https://github.com/TheNamec/fsuae-amiga-themes)  
->: [*E-mail*](#thenamec@hotmail.com)  
->  
-> *Documentation revision: 19/08/2021*  
+>: *Devblog & download* <https://retrogamingpacks.blogspot.com>  
+>: *Libretro Mega Bezel COMMODORE Pack thread* <https://forums.libretro.com/t/thenamec-mega-bezel-commodore-pack-announcement>  
+>: *Github Repository* <https://github.com/TheNamec/fsuae-amiga-themes>
+>: *YouTube Channel* <https://www.youtube.com/channel/UCnnDp1jwiNvSPlzzu2fW6vw>  
+>: *E-mail* <thenamec@hotmail.com>  
+> 
+> Documentation revision: **September, 02 - 2021** 
+
   
 TABLE OF CONTENTS
 =================
@@ -45,26 +47,26 @@ TABLE OF CONTENTS
   - [[2.6] THEME SCALING AND POSITIONING](#26-theme-scaling-and-positioning)
 - [[3] QUICK START](#3-quick-start)
   - [[3.1] SOFTWARE REQUIREMENTS](#31-software-requirements)
-  - [[3.1.2] INSTALLATION](#312-installation)
+  - [[3.2] INSTALLATION](#32-installation)
     - [STEP 1: INSTALL FS-UAE](#step-1-install-fs-uae)
     - [STEP 2: INSTALL THENAMEC AMIGA 1200SYNTH THEME](#step-2-install-thenamec-amiga-1200synth-theme)
     - [STEP 3: SETUP ADVANCED CONFIG TO USE CUSTOM THEMES](#step-3-setup-advanced-config-to-use-custom-themes)
-- [[3] FAQ](#3-faq)
-- [[4] POLICIES](#4-policies)
-  - [[4.1] TERMS AND CONDITIONS](#41-terms-and-conditions)
-    - [[4.1.1] DISTRIBUTION](#411-distribution)
-    - [[4.1.2] LICENSE](#412-license)
-    - [[4.1.3] REVISION CLAUSE](#413-revision-clause)
-  - [[4.2] DISCLAIMER](#42-disclaimer)
-    - [[4.2.1] THIRD-PARTY ASSETS](#421-third-party-assets)
-    - [[4.2.2] TRADEMARKS AND LOGOS](#422-trademarks-and-logos)
-    - [[4.2.3] LIMITATION OF LIABILITY CLAUSE](#423-limitation-of-liability-clause)
-  - [[4.3] ACKNOWLEDGEMENTS](#43-acknowledgements)
-- [[5] CONTACTS](#5-contacts)
+- [[4] FAQ](#4-faq)
+- [[5] POLICIES](#5-policies)
+  - [[5.1] TERMS AND CONDITIONS](#51-terms-and-conditions)
+    - [[5.1.1] DISTRIBUTION](#511-distribution)
+    - [[5.1.2] LICENSE](#512-license)
+    - [[5.1.3] REVISION CLAUSE](#513-revision-clause)
+  - [[5.2] DISCLAIMER](#52-disclaimer)
+    - [[5.2.1] THIRD-PARTY ASSETS](#521-third-party-assets)
+    - [[5.2.2] TRADEMARKS AND LOGOS](#522-trademarks-and-logos)
+    - [[5.2.3] LIMITATION OF LIABILITY CLAUSE](#523-limitation-of-liability-clause)
+- [[6] ACKNOWLEDGEMENTS](#6-acknowledgements)
+- [[7] CONTACTS](#7-contacts)
   
 📢  
 [1] INTRO
-================
+=========
 
 Emulation is evolving from retro-nostalgia to enhanced retrogaming, leading to modern ways to enjoy our imperfect memories and bringing back this strange “I’ve been there, but something’s different” feeling.
 
@@ -74,7 +76,7 @@ I'm an italian graphic artist and this is my love letter to Commodore devices: a
 
 💡  
 [2] FEATURES
-=================
+============
   
 [2.1] ORIGINAL DESIGN
 ---------------------
@@ -146,7 +148,7 @@ This way I can achieve nice visual results with zero configuration, nonetheless 
 
 TheNamec FS-UAE Themes are designed to be easy to pick up for everyone, being them FS-UAE newcomers or skilled users: please read this guide carefully for a quick start.
 
-Please carefully read `Software requirements`, `Installation` and `F.A.Q.`sections before asking for support.
+Please refer to `Software requirements`, `Installation` and `F.A.Q.` sections before asking for support.
 
 [3.1] SOFTWARE REQUIREMENTS
 ---------------------------
@@ -156,7 +158,7 @@ To enjoy TheNamec FS-UAE Themes for FS-UAE you need to install:
 - [FS-UAE v3.0.5 Stable or later](#https://fs-uae.net/download)
 - [TheNamec FS-UAE Themes](#https://retrogamingpacks.blogspot.com/p/downloads.html)
 
-[3.1.2] INSTALLATION
+[3.2] INSTALLATION
 --------------------
 
 This is the complete step-by-step procedure to install both FS-UAE and TheNamec FS-UAE Themes. Please refer to Official [FS-UAE Docs section](#https://fs-uae.net/docs) for more detailed instructions about emulator setup.
@@ -172,7 +174,7 @@ In this example we will use the theme called `thenamec_a1200synth` for reference
 ### STEP 2: INSTALL THENAMEC AMIGA 1200SYNTH THEME
 **************************************************
 
-> 1) Download latest release from [TheNamec Retrogaming Graphic Packs](#https://retrogamingpacks.blogspot.com/p/downloads.html)
+> 1) Download latest release from [TheNamec Retrogaming Packs](#https://retrogamingpacks.blogspot.com/p/downloads.html)
 > 2) Copy folder `thenamec_a1200synth` from the downloaded archive to FS-UAE themes folder, ex. for default Windows installation the correct path is `Documents\FS-UAE\Themes`
 > 3) You're done!
   
@@ -188,8 +190,9 @@ IMPORTANT: if you never used custom themes with FS-UAE, you have to specify the 
 > 5) Close the 'settings' panel
 > 6) You're done! Start playing with the new theme.
   
-[3] FAQ
-===
+🤷‍♂️  
+[4] FAQ
+=======
   
 > How to uninstall TheNamec FS-UAE themes?
 
@@ -221,27 +224,27 @@ A sperimental vector drawing application and a Logitech G-502 mouse. No fancy gr
 
 > Are there other Commodore projects from TheNamec?
 
-Of course, Mega Bezel Commodore Pack for Libretro RetroArch. Visit [TheNamec Retrogaming Graphic Packs](#https://retrogamingpacks.blogspot.com/) for the latest news on my work!
+Of course, Mega Bezel Commodore Pack for Libretro RetroArch. Visit [TheNamec Retrogaming Packs](#https://retrogamingpacks.blogspot.com/) for the latest news on my work!
 
 > What's FS-UAE?
 
 FS-UAE is a multiplatform fork of WinUAE developed by Frode Solheim, with a focus on emulating games, featuring a new on-screen GUI and cross-platform online play. More info on [FS-UAE official site](#https://fs-uae.net/)
   
 ⚖️  
-[4] POLICIES
+[5] POLICIES
 ============
 
-[4.1] TERMS AND CONDITIONS
+[5.1] TERMS AND CONDITIONS
 --------------------------
   
-### [4.1.1] DISTRIBUTION
+### [5.1.1] DISTRIBUTION
 ************************
 
 ThenNamec FS-UAE themes can be downloaded from the official blog <https://retrogamingpacks.blogspot.com>
 
 ThenNamec FS-UAE themes and all thei related assets and codes are free for personal use: if you paid for it, you have been scammed.
   
-### [4.1.2] LICENSE
+### [5.1.2] LICENSE
 *******************
 
 All the assets, including documentation and code, are published under the 'Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)' Creative Commons license.
@@ -266,20 +269,20 @@ Extract from 'CC BY-NC-SA 4.0' Commons Deed:
 For further reading about the 'CC BY-NC-SA 4.0' legal code:
 <https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en>
   
-### [4.1.3] REVISION CLAUSE
+### [5.1.3] REVISION CLAUSE
 ***************************
 The author may at any time revise these Terms and Conditions by updating this documentary.
 You are bound by the most current Terms and Conditions every time you visit <https://retrogamingpacks.blogspot.com/> site, therefore you should periodically review these Terms and Conditions to which you are bound.
   
-[4.2] DISCLAIMER
+[5.2] DISCLAIMER
 ----------------
   
-### [4.2.1] THIRD-PARTY ASSETS
+### [5.2.1] THIRD-PARTY ASSETS
 ******************************
 
 This product does not contain any third-party asset or derivated code.
   
-### [4.2.2] TRADEMARKS AND LOGOS
+### [5.2.2] TRADEMARKS AND LOGOS
 ********************************
 
 All trademarks are included under the concept of 'nominative fair use' for informational, documentary and educational purposes and refer to the trademark owner’s goods and services associated with these marks.
@@ -288,17 +291,20 @@ Commodore brand, including the 'C=', the 'C-flag logo', '64 and rainbow lines lo
 
 Amiga brand, including the 'Amiga 1985 logo', 'Amiga 1996 logo', 'boing ball logo', 'slanted A logo', 'tick logo' and 'Amiga CD32 logo', is a registered trademark owned by Amiga Corporation.
 
+FS-UAE is copyright © 2011-2017 Frode Solheim.
+
 All other Trademarks and logos or registered Trademarks and logos used or mentioned belong to their respective owners.
 
 All Trademarks and logos used or mentioned belong to their respective owners.
   
-### [4.2.3] LIMITATION OF LIABILITY CLAUSE
+### [5.2.3] LIMITATION OF LIABILITY CLAUSE
 ******************************************
 
 Under no circumstances will the author be held responsible or liable in any way for any claims, damages, losses, expenses, costs or liabilities whatsoever (including, without limitation, any direct or indirect damages for loss of profits, business interruption or loss of information) resulting or arising directly or indirectly from your use of or inability to use this software or any websites linked to it.
 
-[4.3] ACKNOWLEDGEMENTS
-----------------------
+💖  
+[6] ACKNOWLEDGEMENTS
+====================
 
 I'd like to thank people who supported me in the project:
 
@@ -307,15 +313,16 @@ I'd like to thank people who supported me in the project:
 - HyperSpaceMadness for his impressive shader and support
 - Duimon for the inspiration and for setting excellent design quality standards
   
-💌  
-[5] CONTACTS
+📬  
+[7] CONTACTS
 ============
   
-TheNamec Retrogaming Graphic Packs is a fluid project: since the beginning, I tried to add the coolest features that came up to my mind and the requested ones from the retrogaming community.
+TheNamec Retrogaming Packs is a fluid project: since the beginning, I tried to add the coolest features that came up to my mind and the requested ones from the retrogaming community.  
+
 If you want to share some ideas with me please refer to my official channels contacts:
 
-> Official Links:  
->: [*Devblog & download*](#https://retrogamingpacks.blogspot.com)  
->: [*Libretro Mega Bezel COMMODORE Pack thread*](#https://forums.libretro.com/t/thenamec-mega-bezel-commodore-pack-announcement/)  
->: [*Github Repository*](#https://github.com/TheNamec/fsuae-amiga-themes)  
->: [*E-mail*](#thenamec@hotmail.com)
+>: *Devblog & download* <https://retrogamingpacks.blogspot.com>  
+>: *Libretro Mega Bezel COMMODORE Pack thread* <https://forums.libretro.com/t/thenamec-mega-bezel-commodore-pack-announcement>  
+>: *Github Repository* <https://github.com/TheNamec/fsuae-amiga-themes>  
+>: *YouTube Channel* <https://www.youtube.com/channel/UCnnDp1jwiNvSPlzzu2fW6vw>  
+>: *E-mail* <thenamec@hotmail.com>
