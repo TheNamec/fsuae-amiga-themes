@@ -18,7 +18,7 @@
        ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚══════╝╚══════╝
   
 THENAMEC FS-UAE THEMES : AMIGA 1200 SYNTHWAVE
-Release version: 1.0 (January, 8th - 2022)
+Release version: 1.0 (January 8th, 2022)
 =============================================================
 
 Original all-in-one graphic pack full with assets and presets for use with **FS-UAE AMIGA EMULATOR**.
@@ -38,7 +38,7 @@ Original all-in-one graphic pack full with assets and presets for use with **FS-
 TABLE OF CONTENTS
 =================
   
-- [Release version: 1.0 (January, 8th - 2022)](#release-version-10-january-8th---2022)
+- [Release version: 1.0 (January 8th, 2022)](#release-version-10-january-8th-2022)
 - [TABLE OF CONTENTS](#table-of-contents)
 - [[1] INTRO](#1-intro)
 - [[2] FEATURES](#2-features)
