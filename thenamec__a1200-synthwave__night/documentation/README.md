@@ -32,7 +32,7 @@ Original all-in-one graphic pack full with assets and presets for use with **FS-
 TABLE OF CONTENTS
 =================
   
-- [Release version: 1.0 (January, 8th - 2022)](#release-version-10-january-8th---2022)
+- [Release version 1.0 (January, 8th - 2022)](#release-version-10-january-8th---2022)
 - [TABLE OF CONTENTS](#table-of-contents)
 - [[1] INTRO](#1-intro)
 - [[2] FEATURES](#2-features)
@@ -135,7 +135,7 @@ texture_filter = nearest
 [2.6] THEME SCALING AND POSITIONING
 -----------------------------------
 
-This graphic theme is hard-coded and tested for 1920x1080 Full HD standard resolution. Amiga content is preset to specific `display rectangle` values corresponding to the graphic overlay transparency.
+This graphic theme is hard-coded and tested for 1920x1080 resolution. Amiga content is preset to specific `display rectangle` values corresponding to the graphic overlay transparency.
 
 This way I can achieve nice visual results with zero configuration, nonetheless this may introduce some negligible overscan and aspect ratio inaccuracies, because of the curvature shader and different PAL/NTSC output standards.
 
@@ -183,7 +183,7 @@ IMPORTANT: if you never used custom themes with FS-UAE, you have to specify the 
 > 1) Launch FS-UAE
 > 2) Click on the small 'settings' icon, a new panel will open
 > 3) On the left list, click 'advanced', a new panel will open
-> 4) On the right text box, manually input `theme = thenamec__a1200-synthwave__day` or `theme = thenamec__a1200-synthwave__night`
+> 4) On the right text box, manually input `theme = thenamec_a1200synth`
 > 5) Close the 'settings' panel
 > 6) You're done! Start playing with the new theme.
   
@@ -193,7 +193,7 @@ IMPORTANT: if you never used custom themes with FS-UAE, you have to specify the 
   
 > How to uninstall TheNamec FS-UAE themes?
 
-Delete folders beginning with `thenamec__???` from FS-UAE themes directory, ex. for default Windows installation the path is `Documents\FS-UAE\Themes`
+Delete `thenamec_a1200synth` folder from FS-UAE themes folder, ex. for default Windows installation the correct path is `Documents\FS-UAE\Themes`
 
 > How to update TheNamec FS-UAE themes?  
 
@@ -201,9 +201,9 @@ I always suggest to delete old theme before copying new file, instead of overwri
 
 > Everything looks funky and stretchy! What the hell is going on?
 
-TheNamec FS-UAE themes are pre-configured to use full display estate within the overlay. It's tested to work fine with default FS-UAE video settings, but it may conflict with other configurations. Please try to stay on the default settings (marked by a * in the UI) while using TheNamec FS-UAE themes.
+TheNamec FS-UAE themes are pre-configured to use full display estate within the overlay. It was tested to work fine with default FS-UAE video settings, but it may conflict with other configurations. Please try to stay on the default settings (marked by a * in the UI) while using my themes.
 
-> Will you develop any other new theme for FS-UAE?
+> Will you develop new themes for FS-UAE?
 
 Only time will tell 😇
 
@@ -221,7 +221,7 @@ A sperimental vector drawing application and a Logitech G-502 mouse. No fancy gr
 
 > Are there any other retrogaming projects from TheNamec?
 
-Of course, the Mega Bezel Commodore Pack for Libretro RetroArch. Visit [TheNamec Retrogaming Packs](#https://retrogamingpacks.blogspot.com/) for the latest updates from my work!
+Of course, Mega Bezel Commodore Pack for Libretro RetroArch. Visit [TheNamec Retrogaming Packs](#https://retrogamingpacks.blogspot.com/) for the latest news on my work!
 
 > What's FS-UAE?
 
