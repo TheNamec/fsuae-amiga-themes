@@ -1,0 +1,24 @@
+TheNamec FS-UAE Themes - Copyright (c) 2021-2022 Alessandro F.
+
+SOME RIGHTS RESERVED TO THE AUTHOR
+=============================================================
+
+'THENAMEC FS-UAE THEMES', including graphic assets, documentation and presets code, are published under the 'Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)' Creative Commons license.
+
+Extract from 'CC BY-NC-ND 4.0' Commons Deed:
+<https://creativecommons.org/licenses/by-nc-nd/4.0/deed>
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes ere made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- NonCommercial — You may not use the material for commercial purposes.
+- NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
+- No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Further reading about the 'CC BY-NC-SA 4.0' legal code:
+<https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode>
+
+The author may at any time revise these Terms and Conditions by updating this documentary. You are bound by the most current Terms and Conditions every time you use 'THENAMEC FS-UAE THEMES', therefore you should periodically check <https://retrogamingpacks.blogspot.com/> site and review these Terms and Conditions to which you are bound.

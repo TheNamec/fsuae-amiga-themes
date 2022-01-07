@@ -24,10 +24,16 @@ Release version: 1.0 (January, 8th - 2022)
 Original all-in-one graphic pack full with assets and presets for use with **FS-UAE AMIGA EMULATOR**.
 
 > Official Links:  
->: [*Devblog & download*](#https://retrogamingpacks.blogspot.com)  
->: [*Libretro Mega Bezel COMMODORE Pack thread*](#https://forums.libretro.com/t/thenamec-mega-bezel-commodore-pack-announcement/)  
->: [*Github Repository*](#https://github.com/TheNamec/fsuae-amiga-themes)  
->: [*E-mail*](#thenamec@hotmail.com)  
+> 
+>: *Devblog & download* <https://retrogamingpacks.blogspot.com>  
+>: *Libretro thread* <https://forums.libretro.com/t/31523>  
+>: *English Amiga Board EAB thread* <http://eab.abime.net/showthread.php?p=1525777>  
+>: *Github Repository* <https://github.com/thenamec/fsuae-amiga-themes>  
+>: *Facebook Page* <https://www.facebook.com/retrogamingpacks>  
+>: *YouTube Channel* <https://www.youtube.com/channel/UCnnDp1jwiNvSPlzzu2fW6vw>  
+>: *E-mail* <thenamec@hotmail.com>  
+> 
+> Latest release at <https://github.com/TheNamec/fsuae-amiga-themes/releases>
   
 TABLE OF CONTENTS
 =================
@@ -101,11 +107,11 @@ The 'data-simulator' adaptor on the left side is equipped with a dot matrix disp
 [2.3] LED INDICATORS (ODD, HDD, POWER)
 --------------------------------------
 
-Led indicators on the right side give a real-time glimpse of data units and power activity via classic Amiga blinking leds.
+LED indicators on the right side give a real-time glimpse of data units and power activity via classic Amiga blinking LEDs.
 
-- `HARD DISK (HDD) LED` shows reading/writing activity for all of the hard disk units via a blinking led
-- `OPTICAL DISK (ODD) LED` shows reading activity for all of the optical disk units via a blinking led
-- `POWER LED` shows energy supply status via an on/off led. Some applications shut the led off in run-time.
+- `HARD DISK (HDD) LED` shows reading/writing activity for all of the hard disk units via a blinking LED
+- `OPTICAL DISK (ODD) LED` shows reading activity for all of the optical disk units via a blinking LED
+- `POWER LED` shows energy supply status via an on/off LED. Some applications shut the LED off in run-time
 
 [2.4] AUDIO INDICATOR (HEADPHONES)
 ----------------------------------
@@ -274,7 +280,7 @@ The author may at any time revise these Terms and Conditions by updating this do
 ### [5.2.1] THIRD-PARTY ASSETS
 ******************************
 
-This product does not contain any third-party asset or derivated code.
+This product does not contain any third-party asset or derived code.
   
 ### [5.2.2] TRADEMARKS AND LOGOS
 ********************************
@@ -316,7 +322,9 @@ TheNamec Retrogaming Packs is a fluid project: since the beginning, I tried to a
 If you want to share some ideas with me please refer to my official channels contacts:
 
 >: *Devblog & download* <https://retrogamingpacks.blogspot.com>  
->: *Libretro Mega Bezel COMMODORE Pack thread* <https://forums.libretro.com/t/thenamec-mega-bezel-commodore-pack-announcement>  
->: *Github Repository* <https://github.com/TheNamec/fsuae-amiga-themes>  
+>: *Libretro thread* <https://forums.libretro.com/t/31523>  
+>: *English Amiga Board EAB thread* <http://eab.abime.net/showthread.php?p=1525777>  
+>: *Github Repository* <https://github.com/thenamec/fsuae-amiga-themes>  
+>: *Facebook Page* <https://www.facebook.com/retrogamingpacks>  
 >: *YouTube Channel* <https://www.youtube.com/channel/UCnnDp1jwiNvSPlzzu2fW6vw>  
->: *E-mail* <thenamec@hotmail.com>
+>: *E-mail* <thenamec@hotmail.com> 
